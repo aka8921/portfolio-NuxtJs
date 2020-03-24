@@ -76,6 +76,11 @@ export default {
   components: {
     
   },
+  head () {
+    return {
+      title: "Vighnesh | Home",
+    }
+  }
 }
 </script>
 
