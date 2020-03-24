@@ -4,7 +4,7 @@
 
 
         <div class = "mainchilddiv imageArea">
-            <img id="myimage" src="../static/vector.png" alt="myVectorArt">
+            <img id="myimage" src="~assets/vector.png" alt="myVectorArt">
         </div>
 
         <div class = "mainchilddiv textArea"> 
@@ -75,7 +75,7 @@
 export default {
   components: {
     
-  }
+  },
 }
 </script>
 
