@@ -61,7 +61,7 @@
             <div class="subTitleDiv">
 
 
-              <div class="subTitle">
+              <div class="subTitle socialSubtitle">
 
                   <a href="https://twitter.com/_vighnesh_s_" class="social" target="_blank">
                   
@@ -193,7 +193,7 @@ a{
     'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   display: block;
   font-weight: 900;
-  font-size: 6em;
+  font-size: 8vw;
   color: #ffffff;
   letter-spacing: 1px;
   /* background-color: chocolate; */
@@ -258,6 +258,14 @@ width: 100%;
   .subTitle{
     font-weight: 100;
     font-size: 4vw;
+  }
+
+  .homediv{
+    padding:1em;
+  }
+
+  .socialSubtitle{
+    margin-top:2vh;
   }
 
 }
