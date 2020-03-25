@@ -245,19 +245,19 @@ width: 100%;
 
 @media screen and (max-width: 1000px) {
   #myimage{
-    height: 70vw;
+    height: 35vh;
   }
 
   #homediv{
     flex-direction: column;
   }
   .title{
-    font-size: 4em;
+    font-size: 12vw;
   }
 
   .subTitle{
     font-weight: 100;
-    font-size:2em;
+    font-size: 4vw;
   }
 
 }
