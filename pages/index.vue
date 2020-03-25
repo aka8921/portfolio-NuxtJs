@@ -63,20 +63,20 @@
 
               <div class="subTitle">
 
-                  <a href="https://twitter.com/_vighnesh_s_" class="social">
+                  <a href="https://twitter.com/_vighnesh_s_" class="social" target="_blank">
                   
                   <font-awesome-icon :icon="['fab', 'twitter']"/>
                   
                   </a>
 
-                  <a href="https://www.linkedin.com/in/vighnesh-s-688044165/" class="social">
+                  <a href="https://www.linkedin.com/in/vighnesh-s-688044165/" class="social" target="_blank">
                   
                   <font-awesome-icon :icon="['fab', 'linkedin']"/>
                   
                   </a>
 
 
-                  <a href="http://github.com/aka8921" class="social">
+                  <a href="http://github.com/aka8921" class="social" target="_blank">
                   
                   <font-awesome-icon :icon="['fab', 'github']"/>
 
