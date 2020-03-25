@@ -47,11 +47,47 @@
 
               <div class="subTitle">
 
-                  <span>Full Stack Developer </span>
+                  <span>Full Stack Developer</span>
 
                 </div>
 
                 <div class="subTitleUnderline"></div>
+
+
+            </div>
+
+
+
+            <div class="subTitleDiv">
+
+
+              <div class="subTitle">
+
+                  <a href="https://twitter.com/_vighnesh_s_" class="social">
+                  
+                  <font-awesome-icon :icon="['fab', 'twitter']"/>
+                  
+                  </a>
+
+                  <a href="https://www.linkedin.com/in/vighnesh-s-688044165/" class="social">
+                  
+                  <font-awesome-icon :icon="['fab', 'linkedin']"/>
+                  
+                  </a>
+
+
+                  <a href="http://github.com/aka8921" class="social">
+                  
+                  <font-awesome-icon :icon="['fab', 'github']"/>
+
+                  </a>
+                  
+                  
+                  
+
+                </div>
+
+                
 
 
             </div>
@@ -85,6 +121,11 @@ export default {
 </script>
 
 <style>
+
+a{
+  text-decoration: none;
+  color: #fff;
+}
 
 /* verified */
 
@@ -188,6 +229,12 @@ width: 100%;
   width: auto;
   margin-left: 1em;
   flex:1;
+}
+
+/* Social Media Links */
+
+.social{
+  margin-right: .5em;
 }
 
 
