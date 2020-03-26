@@ -1,4 +1,4 @@
-# portfolio-vighnesh
+# My Portfolio [vighnesh.dev](https://www.vighnesh.dev)
 
 > My portfolio which is hosted [here](https://www.vighnesh.dev)
 ![web](https://drive.google.com/uc?export=view&id=1Atd2jlg1fHl0eHBfSUEuGRipnutViTnN)
